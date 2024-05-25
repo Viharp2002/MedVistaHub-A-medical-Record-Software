@@ -1,0 +1,45 @@
+/* styles.css */
+/* Custom styling for the navbar */
+/* navbar.css */
+.vimc{
+  background-color: rgb(18, 166, 199);
+}
+
+.vihartwo:hover {
+  background-color: rgb(12, 235, 228);  
+  border-radius: 35px;
+}
+
+.navbar {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brandd {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: rgb(234, 236, 235);
+  font-style: italic;
+}
+
+.navbar-nav .nav-link {
+  padding: 0.5rem 1rem;
+  font-weight: 500;
+}
+
+.navbar-nav .nav-item.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.dropdown-menu {
+  background-color: #343a40; /* Dark background color for the dropdown */
+}
+
+.dropdown-item {
+  color: #ffffff; /* Text color for dropdown items */
+}
+
+.btn-outline-light {
+  color: #ffffff;
+}
+
+/* Add more styles as needed */
